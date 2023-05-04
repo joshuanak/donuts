@@ -1,0 +1,12 @@
+{
+  "name": "jnakatani/328/diner",
+  "authors": [
+    {
+      "name": "Joshua Nakatani",
+      "email": "nakatani.joshua@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
